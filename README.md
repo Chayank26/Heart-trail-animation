@@ -22,3 +22,6 @@ Hearts follow the mouse cursor creating a smooth trailing effect.
 
 ## How to Run
 Open `index.html` in a browser or use Live Server.
+
+## Live Demo
+https://chayank26.github.io/Heart-trail-animation/
